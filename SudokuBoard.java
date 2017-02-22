@@ -1,6 +1,5 @@
 /*******************************************
- * Author : Mathew Puryear
- * Class : cs480 
+ * Author : Mathew Puryear 
  * Date : Spring 2017 
  * Filename : SudokuBoard.java
  * Purpose : This class provides the 2d array of ints used to drive a game of sudoku
