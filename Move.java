@@ -1,6 +1,5 @@
 /*******************************
  * Author : Mathew Puryear
- * Class : cs480
  * Date : Spring 2017
  * Filename : Move.java
  * Purpose: this class stores a row col and value for a valid move in sudoku. 
