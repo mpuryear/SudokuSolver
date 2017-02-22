@@ -1,6 +1,5 @@
 /************************************************
  * Author : Mathew Puryear
- * Class : cs480
  * Date : Spring 2017
  * Filename : SudokuSolver.java
  * Purpose : Take a given sudokuboard and print the solution to the user.
