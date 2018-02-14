@@ -6,15 +6,15 @@ Simple Sudoku Solver using DFS
 
 #### To Build
    in a linux environment run the make command
-    '''
-    make
-    '''
+    
+      make
+    
 
    This will create a GroupSudokuSolver.x that can then be run to solve
    all boards in the ./boards/ folder
 
 #### To Run
 
-    ```
+    
     ./GroupSudokuSolver.x
-    ```
+    
