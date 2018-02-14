@@ -5,8 +5,6 @@
  * Purpose : Take a given sudokuboard and print the solution to the user, using a Depth-First search to find it.
  **********************************************/
 
-
-
 import java.util.*;
 import java.io.*;
 
@@ -14,6 +12,7 @@ class SudokuSolver{
 
     public static boolean DEBUGGING;
     public static void main(String[] args) throws FileNotFoundException {
+
 	DEBUGGING = false;
 	
 	PlaySudoku initialBoard;

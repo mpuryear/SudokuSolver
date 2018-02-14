@@ -3,5 +3,4 @@ make:
 	gcc GroupSudokuSolver.c -o GroupSudokuSolver.x
 
 clean:
-	rm *.*~
-	rm *.x
+	rm -f *.*~ *.x *.class
